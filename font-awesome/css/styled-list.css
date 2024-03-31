@@ -1,0 +1,17 @@
+.styled-list-container {
+    margin-bottom: 20px; /* Espacement entre les listes */
+}
+
+.styled-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.styled-list li {
+    margin-bottom: 10px; /* Espacement entre les éléments */
+    line-height: 1.5; /* Espacement entre les lignes */
+}
+
+.styled-list li i {
+    margin-right: 5px; /* Espacement après l'icône */
+}
